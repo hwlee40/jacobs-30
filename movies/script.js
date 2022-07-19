@@ -60,7 +60,7 @@ $(document).ready(function(){
     
 
     //CHANGE DATE HERE TO UPDATE ON ALL PAGES
-    $('.replace-date').append('<span>May 6, 2022</span>')
+    $('.replace-date').append('<span>July 25, 2022</span>')
 
 // Document Load    
 });
